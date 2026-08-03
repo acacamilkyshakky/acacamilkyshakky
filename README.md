@@ -3,11 +3,17 @@
 # 🌸 Hi there, I'm Aca 👋 🌸
 
 <!-- Header Hello Kitty (Gunakan GIF atau Gambar Kecil agar Ringan) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIybTVjZmd6YzF6am83cjcyYmh3YzBhOTgyMnIxbWF6d203czZoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L542b5sYF10E8/giphy.gif" width="100px"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F778A1&center=true&vCenter=true&width=435&lines=Cute+Code+Creator+🎀;Always+Learning+📚;Software+Engineer;[Keahlian+Kamu]" alt="Typing SVG" />
-</p>
+  <!-- Header Hello Kitty (URL GIF yang lebih bersih & stabil) -->
+  <img src="https://media.giphy.com/media/L542b5sYF10E8/giphy.gif" width="120px" alt="Hello Kitty" />
+
+  <br />
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F778A1&center=true&vCenter=true&width=435&lines=Cute+Code+Creator+%F0%9F%8E%80;Always+Learning+%F0%9F%93%9B;Software+Engineer;[Keahlian+Kamu]" alt="Typing SVG" />
+
+</div>
 
 ---
 
